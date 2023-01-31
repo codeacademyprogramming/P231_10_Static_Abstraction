@@ -1,0 +1,10 @@
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\10. 31-01-2023\31012023\HomeTassksLibrary\bin\Debug\netcoreapp3.1\HomeTassksLibrary.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\10. 31-01-2023\31012023\HomeTassksLibrary\bin\Debug\netcoreapp3.1\HomeTassksLibrary.dll
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\10. 31-01-2023\31012023\HomeTassksLibrary\bin\Debug\netcoreapp3.1\HomeTassksLibrary.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\10. 31-01-2023\31012023\HomeTassksLibrary\obj\Debug\netcoreapp3.1\HomeTassksLibrary.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\10. 31-01-2023\31012023\HomeTassksLibrary\obj\Debug\netcoreapp3.1\HomeTassksLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\10. 31-01-2023\31012023\HomeTassksLibrary\obj\Debug\netcoreapp3.1\HomeTassksLibrary.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\10. 31-01-2023\31012023\HomeTassksLibrary\obj\Debug\netcoreapp3.1\HomeTassksLibrary.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\10. 31-01-2023\31012023\HomeTassksLibrary\obj\Debug\netcoreapp3.1\HomeTassksLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\10. 31-01-2023\31012023\HomeTassksLibrary\obj\Debug\netcoreapp3.1\HomeTassksLibrary.dll
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\10. 31-01-2023\31012023\HomeTassksLibrary\obj\Debug\netcoreapp3.1\HomeTassksLibrary.pdb

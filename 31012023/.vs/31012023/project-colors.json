@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8736ce25-22dd-498c-8b89-8e28f34a72c5": {
+      "ProjectGuid": "8736ce25-22dd-498c-8b89-8e28f34a72c5",
+      "DisplayName": "Homework",
+      "ColorIndex": 0
+    },
+    "d878ba8b-c636-4cc9-8145-c3f3e0ff2b6a": {
+      "ProjectGuid": "d878ba8b-c636-4cc9-8145-c3f3e0ff2b6a",
+      "DisplayName": "HomeTassksLibrary",
+      "ColorIndex": 1
+    },
+    "106eea1d-3aa4-4439-be74-d00e28679c7a": {
+      "ProjectGuid": "106eea1d-3aa4-4439-be74-d00e28679c7a",
+      "DisplayName": "Tasks",
+      "ColorIndex": 2
+    },
+    "c55a454c-ebd5-4319-80d4-b5b96e54fdc1": {
+      "ProjectGuid": "c55a454c-ebd5-4319-80d4-b5b96e54fdc1",
+      "DisplayName": "Lesson",
+      "ColorIndex": 3
+    },
+    "a849e5f8-963b-4b08-a33e-d53e92555c67": {
+      "ProjectGuid": "a849e5f8-963b-4b08-a33e-d53e92555c67",
+      "DisplayName": "Abstraction",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
